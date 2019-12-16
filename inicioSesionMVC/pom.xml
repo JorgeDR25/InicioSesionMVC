@@ -6,7 +6,7 @@
   <artifactId>inicioSesionMVC</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <exec.mainClass>dad.javafx.InicioSesionMVC.Main</exec.mainClass>
+  <exec.mainClass>src.main.java.dad.javafx.inicioSesionMVC.Main</exec.mainClass>
 
   <name>inicioSesionMVC</name>
   <url>http://maven.apache.org</url>
