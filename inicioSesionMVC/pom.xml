@@ -6,13 +6,14 @@
   <artifactId>inicioSesionMVC</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <exec.mainClass>src.main.java.dad.javafx.inicioSesionMVC.Main</exec.mainClass>
+  
 
   <name>inicioSesionMVC</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <exec.mainClass>src.main.java.dad.javafx.inicioSesionMVC.Main</exec.mainClass>
   </properties>
 
   <dependencies>
